@@ -9,7 +9,11 @@
         <module name="lesson-3" />
         <module name="lesson-1" />
         <module name="lesson-2" />
+        <module name="hw5" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lesson-5" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
